@@ -1,0 +1,18 @@
+# Virtual environment (rebuilt from requirements.txt)
+.venv/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Program output
+logs/
+
+# Credentials - never commit
+kaggle.json
+.env
+
+# Jupyter checkpoints and OS clutter
+.ipynb_checkpoints/
+.DS_Store
